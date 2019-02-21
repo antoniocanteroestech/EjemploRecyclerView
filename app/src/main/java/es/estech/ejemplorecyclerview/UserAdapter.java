@@ -25,6 +25,8 @@ public class UserAdapter  extends RecyclerView.Adapter<UserAdapter.ViewHolder> {
 
     }
 
+    //https://gist.github.com/riyazMuhammad/1c7b1f9fa3065aa5a46f
+
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
